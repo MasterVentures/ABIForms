@@ -61,3 +61,4 @@ HTML Microdata/JSON Schema is compatible with VC, SPA frameworks.
 
 
 ### References
+[W3C Microdata](https://www.w3.org/TR/microdata/#the-basic-syntax)
